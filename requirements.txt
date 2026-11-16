@@ -1,0 +1,1 @@
+# signal_server.py uses only stdlib — no third-party packages needed
